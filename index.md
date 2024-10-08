@@ -38,7 +38,7 @@ UT San Antonio is holding the first TEXHEN conference on November 7 and 8. More 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+       <!--   <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li> -->
           <li><a href="https://github.com/texhen">GitHub</a></li>
       </ul>
   </div>
