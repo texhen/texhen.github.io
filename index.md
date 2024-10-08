@@ -7,7 +7,7 @@ keywords: health economics, Texas, TEXHEN, early-career
 
 The Texas Early-Career Health Economist Network (TEXHEN) was founded in 2023 to connect junior health economists across the state of Texas.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+% [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
