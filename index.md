@@ -9,6 +9,8 @@ The Texas Early-Career Health Economist Network (TEXHEN) was founded in 2023 to 
 
 [//]: # [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
 
 ---
 
