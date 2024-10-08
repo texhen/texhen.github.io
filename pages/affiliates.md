@@ -4,7 +4,10 @@ title: Affiliates
 description: TEXHEN affiliates
 ---
 
+#### David Beheshti
+*David Beheshti is an Assistant Professor of Economics at the University of Texas at San Antonio. His research focuses on how public policy affects health and economic condition.*
 
+[website](https://sites.google.com/view/davidbeheshti/home)
 
 #### Anne M. Burton
 *Anne M. Burton is an Assistant Professor of Economics at the University of Texas at Dallas. Her research is primarily concerned with the spillover effects of risky health behaviors and crime.*
