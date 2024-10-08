@@ -6,7 +6,7 @@ description: TEXHEN affiliates
 
 
 
-###### Anne M. Burotn
+##### Anne M. Burton
 *Anne M. Burton is an Assistant Professor of Economics at the University of Texas at Dallas. Her research is primarily concerned with the spillover effects of risky health behaviors and crime.*
 
 [website](https://annemburton.com)
