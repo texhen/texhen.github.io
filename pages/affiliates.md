@@ -6,12 +6,18 @@ description: TEXHEN affiliates
 
 
 
-##### Anne M. Burton
+#### Anne M. Burton
 *Anne M. Burton is an Assistant Professor of Economics at the University of Texas at Dallas. Her research is primarily concerned with the spillover effects of risky health behaviors and crime.*
 
 [website](https://annemburton.com)
 
+<br/>
+<br/>
 
+#### Ben Harrell
+*Ben Harrell is an Assistant Professor of Economics at Trinity University. He studies how LGBTQ+ populations navigate healthcare and health insurance markets, and how public policy affects those market outcomes.*
+
+[website](https://www.benharrellecon.com/)
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
