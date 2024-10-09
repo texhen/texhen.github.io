@@ -34,7 +34,7 @@ Parking at UTSA’s downtown campus is scarce. We have the capacity to obtain a 
 
 #### Dinner
 
-Happy hour and dinner are at La Fonda on Main, courtesy of Trinity University Department of Economics.
+Happy hour and dinner on Thursday are at La Fonda on Main, courtesy of Trinity University Department of Economics.
 
 [La Fonda on Main](https://www.lafondaonmain.com/)
 
