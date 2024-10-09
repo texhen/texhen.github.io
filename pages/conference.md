@@ -8,7 +8,7 @@ description: TEXHEN conference
 
 The full schedule is available here:
 
-<li><a href="{{ BASE_PATH }}/assets/Schedule.pdf">cv</a></li>
+<a href="{{ BASE_PATH }}/assets/Schedule.pdf">Conference Schedule</a>
 
 <br/>
 
