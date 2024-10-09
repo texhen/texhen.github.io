@@ -8,9 +8,9 @@ description: TEXHEN conference
 
 #### Hotel
 
-A room block is available at the Holiday Inn San Antonio Riverwalk for a discounted rate.
+A room block is available at the Holiday Inn San Antonio Riverwalk for a discounted rate:
  
-[UTSA Department of Economics NOV 6](https://www.ihg.com/holidayinn/hotels/us/en/san-antonio/satrw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SATRW&qGrpCd=UD2&setPMCookies=true&qSHBrC=HI&qDest=217%20North%20St.%20Mary%27s%20Street%2C%20San%20Antonio%2C%20TX%2C%20US&srb_u=1)
+[Hotel website](https://www.ihg.com/holidayinn/hotels/us/en/san-antonio/satrw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SATRW&qGrpCd=UD2&setPMCookies=true&qSHBrC=HI&qDest=217%20North%20St.%20Mary%27s%20Street%2C%20San%20Antonio%2C%20TX%2C%20US&srb_u=1)
  
 The link above will take you to the hotel website. Once you enter your arrival/departure dates, it will automatically populate the group name and discounted group rate.
 
