@@ -6,7 +6,9 @@ description: TEXHEN conference
 
 #### Schedule
 
-The full schedule will be available soon.
+The full schedule is available here:
+
+
 
 <br/>
 
@@ -32,7 +34,11 @@ Parking at UTSA’s downtown campus is scarce. We have the capacity to obtain a 
 
 #### Dinner
 
-TBA
+Happy hour and dinner are at La Fonda on Main, courtesy of Trinity University Department of Economics.
+
+[La Fonda on Main](https://www.lafondaonmain.com/)
+2415 N. Main Ave
+San Antonio, TX 78212
   
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
