@@ -4,7 +4,9 @@ title: Conference
 description: TEXHEN conference
 ---
 
+#### Schedule
 
+The full schedule will be available soon.
 
 #### Hotel
 
