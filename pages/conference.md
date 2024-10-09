@@ -8,6 +8,8 @@ description: TEXHEN conference
 
 The full schedule will be available soon.
 
+<br/>
+
 #### Hotel
 
 A room block is available at the Holiday Inn San Antonio Riverwalk for a discounted rate:
@@ -25,6 +27,8 @@ The conference rate is available until October 29, 2024.
 #### Parking
 
 Parking at UTSA’s downtown campus is scarce. We have the capacity to obtain a limited number of visitor permits for the days of the workshop. Please email david.beheshti@utsa.edu if you will require a parking permit.
+
+<br/>
 
 #### Dinner
 
