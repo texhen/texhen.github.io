@@ -8,7 +8,7 @@ keywords: health economics, Texas, TEXHEN, early-career
 The Texas Early-Career Health Economist Network (TEXHEN) was founded in 2023 to connect junior health economists across the state of Texas.
 
 <br/>
-UT San Antonio is holding the first TEXHEN conference on November 7 and 8. More information will be available soon.
+UT San Antonio is holding the first TEXHEN conference on November 7 and 8. More information is available on the conference page.
 
 <!--[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
 
