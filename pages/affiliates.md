@@ -124,7 +124,7 @@ Ben Ukert is an Assistant Professor of Health Economics at Texas A&M University.
 
 <br/>
 
-#### Yang Zou
+#### Yang Zhou
 Yang Zhou is an Assistant Professor of Economics at the University of North Texas. He studies topics at the intersection of public economics and urban and regional economics, some of which are health-related. He graduated from West Virginia University with a Ph.D. in Economics in 2020.
 
 [https://sites.google.com/view/yangzhouecon](https://sites.google.com/view/yangzhouecon)
