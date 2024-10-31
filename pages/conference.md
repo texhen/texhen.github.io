@@ -30,6 +30,10 @@ The conference rate is available until October 29, 2024.
 
 Parking at UTSA’s downtown campus is scarce. We have the capacity to obtain a limited number of visitor permits for the days of the workshop. Please email david.beheshti@utsa.edu if you will require a parking permit.
 
+A parking map is available here:
+
+<a href="{{ BASE_PATH }}/assets/SPI Dolorosa with Alt. Walking Route_updated all around lots.pdf">Conference Schedule</a>
+
 <br/>
 
 #### Dinner
