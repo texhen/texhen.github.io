@@ -32,7 +32,7 @@ Parking at UTSA’s downtown campus is scarce. We have the capacity to obtain a 
 
 A parking map is available here:
 
-<a href="{{ BASE_PATH }}/assets/SPI Dolorosa with Alt. Walking Route_updated all around lots.pdf">Conference Schedule</a>
+<a href="{{ BASE_PATH }}/assets/SPI Dolorosa with Alt. Walking Route_updated all around lots.pdf">Parking Map</a>
 
 <br/>
 
